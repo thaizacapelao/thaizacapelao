@@ -1,12 +1,12 @@
 ### Hey!! Eu sou a Thaiza Capelao, bem vindo(a) ao meu Github! 🦊
 
-• Realizo projetos Front-end.
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Programadora+Front-end)](https://git.io/typing-svg)
+<br><br>
 • Estudando React, JavaScript e Typescript.
 <br>
 • Pronomes: Ela/dela.
 <br>
-• A procura de propostas!
+• A procura de oportunidades e projetos.
 
 ##
 <br>
