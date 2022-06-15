@@ -1,4 +1,4 @@
-### Hey!! Eu sou a Thaiza Capelao, bem vindo(a) ao meu Github! 🦊
+### Hey!! Eu sou a Thaiza Capelão, bem vindo(a) ao meu Github! 🦊
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Programadora+Front-end)](https://git.io/typing-svg)
 <br><br>
