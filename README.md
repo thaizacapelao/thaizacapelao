@@ -4,9 +4,9 @@
 <br><br>
 • Estudando React, JavaScript e Typescript.
 <br>
-• Pronomes: Ela/dela.
-<br>
 • A procura de oportunidades e projetos.
+<br>
+• Pronomes: Ela/dela.
 
 ##
 <br>
