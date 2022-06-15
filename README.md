@@ -1,4 +1,4 @@
-### Hey!! Eu sou a Thaiza Capelao
+### Hey!! Eu sou a Thaiza Capelao, bem vindo(a) ao meu Github!
 
 <div align="center">
   <a href="https://github.com/thaizacapelao">
