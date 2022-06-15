@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Programadora+Front-end)](https://git.io/typing-svg)
 <br><br>
+![](https://komarev.com/ghpvc/?username=thaizacapelao&color=green)
+<br>
 • Estudando React, JavaScript e Typescript.
 <br>
 • A procura de oportunidades e projetos.
