@@ -1,4 +1,15 @@
-### Hey!! Eu sou a Thaiza Capelao, bem vindo(a) ao meu Github!
+### Hey!! Eu sou a Thaiza Capelao, bem vindo(a) ao meu Github! 🦊
+
+• Realizo projetos Front-end.
+<br>
+• Estudando React, JavaScript e Typescript.
+<br>
+• Pronomes: Ela/dela.
+<br>
+• A procura de propostas!
+
+##
+<br>
 
 <div align="center">
   <a href="https://github.com/thaizacapelao">
