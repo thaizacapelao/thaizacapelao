@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Programadora+Front-end)](https://git.io/typing-svg)
 <br><br>
-![](https://komarev.com/ghpvc/?username=thaizacapelao&color=green)
-<br>
 • Estudando React, JavaScript e Typescript.
 <br>
 • A procura de oportunidades e projetos.
@@ -39,5 +37,9 @@
  	<a href="https://www.twitch.tv/kitsuneaya" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/thaizacapelao/thaizacapelao/blob/output/github-contribution-grid-snake.svg)
+  
+ ![](https://komarev.com/ghpvc/?username=thaizacapelao&color=green)
+  
+  </div>
  
 </div>
