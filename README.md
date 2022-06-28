@@ -1,13 +1,18 @@
-### Hey!! Eu sou a Thaiza Capelão, bem vindo(a) ao meu Github! 🦊
+### Hey Dev's!! My name is Thaiza Capelão, welcome to my Github! 🦊
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Programadora+Front-end)](https://git.io/typing-svg)
 <br><br>
-• Estudando React, JavaScript e Typescript.
+• I’m currently studying on Alura.
 <br>
-• A procura de oportunidades e projetos.
+• I’m currently learning React, JavaScript e Typescript.
 <br>
-• Pronomes: Ela/dela.
-
+• I'm Looking for oportunities and new projects.
+<br>
+• I’m looking for help with React.
+<br>
+• How to reach me: thaizacapelaoco@gmail.com or Cuiabá Mato Grosso Brazil.
+<br>
+• Pronouns: she/her.
 ##
 <br>
 
