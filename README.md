@@ -1,6 +1,6 @@
 ### Hey Dev's!! My name is Thaiza Capelão, welcome to my Github! 🦊
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Programadora+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Front-end+Developer)](https://git.io/typing-svg)
 <br><br>
 • I’m currently studying on Alura.
 <br>
