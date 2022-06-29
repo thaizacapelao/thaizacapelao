@@ -8,7 +8,7 @@
 <br>
 • I'm Looking for oportunities and new projects.
 <br>
-• I’m looking for help with React.
+• I’m looking for help with React/Angular.
 <br>
 • How to reach me: thaizacapelaoco@gmail.com or Cuiabá Mato Grosso Brazil.
 <br>
