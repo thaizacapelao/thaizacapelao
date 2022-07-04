@@ -4,7 +4,7 @@
 <br><br>
 • I’m currently studying on Alura.
 <br>
-• I’m currently learning React, JavaScript e Typescript.
+• I’m currently learning React, JavaScript and Typescript.
 <br>
 • I'm Looking for oportunities and new projects.
 <br>
