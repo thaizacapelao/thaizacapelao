@@ -29,7 +29,7 @@
   <img align="center" alt="Thaiza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thaiza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/bdb5c773fd0616a83207976ddd03f86f.gif">
-<a href="#"><img align="right" alt="Thaiza-foto";" src="https://user-images.githubusercontent.com/104083691/178594153-be5ad49d-6bd7-477e-a8a5-5e7cbdabe864.png" width="130" height="130" border="0" alt="#"/></a><br /><a href="#"></a>
+<a href="#"><img align="right" alt="Thaiza-foto";" src="https://user-images.githubusercontent.com/104083691/178594288-61e6f572-2f66-4513-b0c9-092e03ad3b3f.gif" width="130" height="130" border="0" alt="#"/></a><br /><a href="#"></a>
   </div>
                                                                                                                                                    
   ##
