@@ -10,7 +10,7 @@
 <br>
 • I’m looking for help with React/Angular.
 <br>
-• How to reach me: thaizacapelaoco@gmail.com or Cuiabá Mato Grosso Brazil.
+• How to reach me: thaizacapelaoco@gmail.com.
 <br>
 • Pronouns: she/her.
 ##
