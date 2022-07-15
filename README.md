@@ -1,12 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=bfbbba&animation=twinkling&fontAlignY=35"/> 
-<div align="center">
+
 
 ### Hey Dev's!! My name is Thaiza Capelão, welcome to my Github! 🦊
-
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Front-end+Developer)](https://git.io/typing-svg)
 
-<br><br>
+<br>
 • I’m currently studying on Alura.
 <br>
 • I’m currently learning React, JavaScript and Typescript.
@@ -20,8 +19,7 @@
 • Pronouns: she/her.
 <br><br>
   
-  
-</div>
+ 
 
 
 <div align="center">
