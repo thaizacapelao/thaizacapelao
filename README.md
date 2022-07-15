@@ -1,4 +1,6 @@
-### Hey Dev's!! My name is Thaiza Capelão, welcome to my Github! 🦊
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=150&section=header&text=Hey Dev's!! My%20name is Thaiza Capelão%20%20🦊&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+### Welcome to my Github!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Front-end+Developer)](https://git.io/typing-svg)
 <br><br>
@@ -44,6 +46,8 @@
  ![Snake animation](https://github.com/thaizacapelao/thaizacapelao/blob/output/github-contribution-grid-snake.svg)
   
  ![](https://komarev.com/ghpvc/?username=thaizacapelao&color=green)
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=120&section=footer"/>
   
   </div>
  
