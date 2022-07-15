@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=150&section=header&text=Hey Dev's!! My%20name is Thaiza Capelão%20%20🦊&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=150&section=header&text=Hey Dev's!! My%20name is Thaiza Capelão%20%20🦊&fontSize=35&fontColor=bfbbba&animation=twinkling&fontAlignY=35"/> 
 
 ### Welcome to my Github!
 
