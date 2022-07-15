@@ -46,6 +46,8 @@
  ![Snake animation](https://github.com/thaizacapelao/thaizacapelao/blob/output/github-contribution-grid-snake.svg)
   
  ![](https://komarev.com/ghpvc/?username=thaizacapelao&color=green)
+ 
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=ThaizaCapelao&theme=gotham&hide_border=true&area=true)
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=120&section=footer"/>
   
