@@ -5,7 +5,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Front-end+Developer)](https://git.io/typing-svg)
 
-<br>
+
 • I’m currently studying on Alura.
 <br>
 • I’m currently learning React, JavaScript and Typescript.
