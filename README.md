@@ -34,6 +34,9 @@
   <img align="center" alt="Thaiza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thaiza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thaiza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor">
   <img align="right" alt="" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/bdb5c773fd0616a83207976ddd03f86f.gif">
 <a href="#"><img align="right" alt="Thaiza-foto";" src="https://i.picasion.com/pic92/6238413bec1de1bbb0d67448c4031c45.gif" width="130" height="130" border="0" alt="#"/></a><br /><a href="#"></a>
   </div>
