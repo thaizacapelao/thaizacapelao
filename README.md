@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=bfbbba&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7db6c9&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=#8dabb5&animation=twinkling&fontAlignY=35"/> 
 
 
 ### Hey Dev's!! My name is Thaiza Capelão, welcome to my Github! 🦊
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Front-end+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=A6CFDC&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
 
 • I’m currently studying on Alura.
@@ -58,7 +58,7 @@
   
   </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7db6c9&height=120&section=footer"/>
   
   </div>
  
