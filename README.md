@@ -54,7 +54,7 @@
   
  <div align="center">
    
-  ![](https://komarev.com/ghpvc/?username=thaizacapelao&color=green)
+  ![](https://komarev.com/ghpvc/?username=thaizacapelao&color=ff69b4)
   
   </div>
   
