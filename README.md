@@ -25,7 +25,7 @@ const thaizaCapelao = {
   studyingOn: [Alura],
   codeLearning: [JavaScript, Typescript, C#, SQL, API's],
   tools: [Gitlab, Github, Trello, Jira],
-  learning: [React, C-Sharp, Angular, Node, Express, SQL, Redux, Hooks],
+  learning: [React, Angular, Node, Express, SQL, Redux, Hooks],
 }
 ```
 <br>
