@@ -19,8 +19,16 @@
 • Pronouns: she/her.
 <br><br>
   
- 
-
+ ```javascript
+const thaizaCapelao = {
+  
+  studyingOn: [Alura],
+  codeLearning: [React, JavaScript, Typescript, C#, SQL],
+  tools: [Gitlab, Github, Trello, Jira],
+  learning: [React, C#, Angular],
+}
+```
+<br>
 
 <div align="center">
   <a href="https://github.com/thaizacapelao">
