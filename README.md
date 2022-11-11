@@ -8,7 +8,7 @@
 
 • I’m currently studying on Alura.
 <br>
-• I’m currently learning React, JavaScript/Typescript and C#.
+• I’m currently learning React, JavaScript/Typescript, C#, API's.
 <br>
 • I'm Looking for oportunities and new projects.
 <br>
@@ -23,9 +23,9 @@
 const thaizaCapelao = {
   
   studyingOn: [Alura],
-  codeLearning: [React, JavaScript, Typescript, C#, SQL],
+  codeLearning: [JavaScript, Typescript, C#, SQL, API's],
   tools: [Gitlab, Github, Trello, Jira],
-  learning: [React, C#, Angular, API's],
+  learning: [React, C#, Angular],
 }
 ```
 <br>
