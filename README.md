@@ -23,7 +23,7 @@
 const thaizaCapelao = {
   
   studyingOn: [Alura],
-  codeLearning: [JavaScript, Typescript, C#, SQL, API's],
+  codeLearning: [JavaScript, Typescript, C#, SQL, API's, SASS],
   tools: [Gitlab, Github, Trello, Jira, Monday],
   learning: [React, Angular, Node, Express, SQL, Redux, Hooks],
 }
