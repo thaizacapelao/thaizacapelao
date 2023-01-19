@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7db6c9&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=#8dabb5&animation=twinkling&fontAlignY=35"/> 
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Hey Dev's!! My name is Thaiza Capelão, welcome to my Github! 🦊
   
