@@ -4,7 +4,7 @@
 
 ### Hello world!! My name is Thaiza Capelão, welcome to my Github! 🦊
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=A6CFDC&width=435&lines=Front-end+Developer)](https://git.io/typing-svg) <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=A6CFDC&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
   
 • I’m currently studying on Alura.
 <br>
