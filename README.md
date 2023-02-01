@@ -4,7 +4,7 @@
 
 ### Hello world!! My name is Thaiza Capelão, welcome to my Github! 🦊
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=FEBF89&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=FFA657&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
   
 • I’m currently studying on Alura.
 <br>
@@ -32,8 +32,8 @@ const thaizaCapelao = {
 
 <div align="center">
   <a href="https://github.com/thaizacapelao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaizacapelao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaizacapelao&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaizacapelao&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaizacapelao&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
 <div style="display: inline_block"><br>
