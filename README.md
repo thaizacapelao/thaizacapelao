@@ -5,6 +5,8 @@
 ### Hello world!! My name is Thaiza Capelão, welcome to my Github!
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=FF75B5&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+  
+  <img align="right" alt="Pokemon-gif" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/6238413bec1de1bbb0d67448c4031c45.gif">
 
 • I’m currently studying on Alura.
 <br>
