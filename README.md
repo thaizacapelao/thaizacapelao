@@ -6,7 +6,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=FF75B5&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
-<img align="right" alt="Pokemon-gif" height="140" style="border-radius:50px;" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif">  
+<img align="right" alt="Pokemon-gif" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/6238413bec1de1bbb0d67448c4031c45.gif">
 
 • I’m currently studying on Alura.
 <br>
@@ -50,7 +50,7 @@ const thaizaCapelao = {
   <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor">
   <img align="center" alt="Thaiza-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/bdb5c773fd0616a83207976ddd03f86f.gif">
-<a href="#"><img align="right" alt="Thaiza-foto";" src="https://i.picasion.com/pic92/6238413bec1de1bbb0d67448c4031c45.gif" width="130" height="130" border="0" alt="#"/></a><br /><a href="#"></a>
+<a href="#"><img align="right" alt="Thaiza-foto";" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif" width="160" height="120" border="0" alt="#"/></a><br /><a href="#"></a>
   </div>
                                                                                                                                                    
   ##
