@@ -2,10 +2,12 @@
   
 
 
-### Hello world!! My name is Thaiza Capelão, welcome to my Github! 🦊
+### Hello world!! My name is Thaiza Capelão, welcome to my Github!
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=FF75B5&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
-  
+
+<img align="right" alt="Pokemon-gif" height="140" style="border-radius:50px;" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif">  
+
 • I’m currently studying on Alura.
 <br>
 • I’m currently learning React, JavaScript/Typescript, C#, API's.
