@@ -50,7 +50,7 @@ const thaizaCapelao = {
   <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor">
   <img align="center" alt="Thaiza-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/bdb5c773fd0616a83207976ddd03f86f.gif">
-<a href="#"><img align="right" alt="Thaiza-foto";" src="https://media2.giphy.com/media/SudTherS6xNjITcEyc/giphy.gif" width="100" height="130" border="0" alt="#"/></a><br /><a href="#"></a>
+<a href="#"><img align="right" alt="Thaiza-foto";" src="https://media2.giphy.com/media/SudTherS6xNjITcEyc/giphy.gif" width="90" height="120" border="0" alt="#"/></a><br /><a href="#"></a>
   </div>
                                                                                                                                                    
   ##
