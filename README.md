@@ -50,7 +50,7 @@ const thaizaCapelao = {
   <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor">
   <img align="center" alt="Thaiza-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/bdb5c773fd0616a83207976ddd03f86f.gif">
-<a href="#"><img align="right" alt="Thaiza-foto";" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32a2fa60-befd-4da5-af0f-0590efe16bc4/dcq3uvx-776d0730-5512-45d1-9d26-67eaedbb2ff7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8zMmEyZmE2MC1iZWZkLTRkYTUtYWYwZi0wNTkwZWZlMTZiYzQvZGNxM3V2eC03NzZkMDczMC01NTEyLTQ1ZDEtOWQyNi02N2VhZWRiYjJmZjcuZ2lmIn1dXX0.YJ9aL4OUSrqXSXlxefegRdKZADXmeWRl9JvAoIdENoI" width="160" height="130" border="0" alt="#"/></a><br /><a href="#"></a>
+<a href="#"><img align="right" alt="Thaiza-foto";" src="https://media2.giphy.com/media/SudTherS6xNjITcEyc/giphy.gif" width="100" height="130" border="0" alt="#"/></a><br /><a href="#"></a>
   </div>
                                                                                                                                                    
   ##
