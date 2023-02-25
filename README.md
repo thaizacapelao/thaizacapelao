@@ -20,7 +20,6 @@
 <br>
 • Pronouns: she/her.
 <br><br>
-  
  ```javascript
 const thaizaCapelao = {
   
