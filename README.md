@@ -8,6 +8,8 @@
   
   <img align="right" alt="Pokemon-gif" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/6238413bec1de1bbb0d67448c4031c45.gif">
 
+• Working on LbrIT/Liberali SAP.
+<br>
 • I’m currently studying on Alura.
 <br>
 • I’m currently learning React, JavaScript/Typescript, C#, API's.
