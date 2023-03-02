@@ -10,7 +10,7 @@
 
 • Working on LbrIT/Liberali SAP.
 <br>
-• I’m currently studying on Alura.
+• I’m currently studying on Alura/Rockseat.
 <br>
 • I’m currently learning React, JavaScript/Typescript, C#, API's.
 <br>
