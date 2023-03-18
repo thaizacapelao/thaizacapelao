@@ -18,7 +18,7 @@
 <br>
 • I’m looking for help with React/Angular.
 <br>
-• How to reach me: thaizacapelaoco@gmail.com.
+• How to reach me: thaizacapelaoco@gmail.com
 <br>
 • Pronouns: she/her.
 <br><br>
