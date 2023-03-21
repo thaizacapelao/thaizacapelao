@@ -17,7 +17,7 @@
 • I'm Looking for oportunities and new projects.
 <br>
 • I’m looking for help with React/Angular.
-<br>q
+<br>
 • How to reach me: thaizacapelaoco@gmail.com
 <br>
 • Pronouns: she/her.
