@@ -28,7 +28,7 @@
  ```javascript
 const thaizaCapelao = {
   
-  studyingOn: [Alura],
+  studyingOn: [Alura, RocketSeat],
   codeLearning: [JavaScript, Typescript, C#, SQL, API's, SASS],
   tools: [Gitlab, Github, Trello, Jira, Monday],
   learning: [React, Angular, Node, Express, SQL, Redux, Hooks],
