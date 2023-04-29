@@ -4,7 +4,7 @@
 
 ### Hello world!! My name is Thaiza Capelão, welcome to my Github!!
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=FF75B5&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=FF8997&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
   
   <img align="right" alt="Thaiza-gif" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/b17cc133edef505a47bd6cc2e2fc2197.gif">
 
