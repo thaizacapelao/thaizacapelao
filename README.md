@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7580A0&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=#8dabb5&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B6E3FF&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=#8dabb5&animation=twinkling&fontAlignY=35"/>
   
 
 
@@ -74,7 +74,7 @@ const thaizaCapelao = {
   
   </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7580A0&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B6E3FF&height=120&section=footer"/>
   
   </div>
  
