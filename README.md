@@ -2,7 +2,7 @@
   
 
 
-### Hello world!! My name is Thaiza Capelão, welcome to my Github!
+### Hello world!! My name is Thaiza Capelão, welcome to my Github!1
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=FF8997&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
   
