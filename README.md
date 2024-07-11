@@ -11,7 +11,7 @@
 
 
 
-• Working on LbrIT/Liberali SAP.
+• Working on Facepass.
 <br>
 • I’m currently studying on Alura/Rockseat.
 <br>
