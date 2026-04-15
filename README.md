@@ -3,9 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&letterSpacing=1px&duration=1&pause=1000&color=DADADA&repeat=false&width=650&height=80&lines=Hello+world!+My+name+is+Thaiza+Capel%C3%A3o%2C+welcome+to+my+Github.)](https://git.io/typing-svg)
 
+  <img align="right" alt="Thaiza" height="330" src="https://iili.io/BveZp6b.md.png">
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+US+Modern&size=30&letterSpacing=1px&duration=1&pause=1000&color=DC6932&repeat=false&width=452&height=80&lines=Full+Stack+Designer)](https://git.io/typing-svg)
   
-  <img align="right" alt="Thaiza" height="330" src="https://iili.io/BveZp6b.md.png">
 
 
 <div color="DADADA">
