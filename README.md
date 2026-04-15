@@ -6,7 +6,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=dc6932&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
   
-  <img align="right" alt="Thaiza-gif" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/b17cc133edef505a47bd6cc2e2fc2197.gif">
+  <img align="right" alt="Thaiza" height="330" src="https://iili.io/BveZp6b.md.png">
 
 
 
@@ -36,26 +36,28 @@ const thaizaCapelao = {
 ```
 <br>
 
-<div align="center">
+<div align="rightr">
   <a href="https://github.com/thaizacapelao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaizacapelao&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaizacapelao&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thaiza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thaiza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thaiza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thaiza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor">
-  <img align="center" alt="Thaiza-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="right" alt="" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/bdb5c773fd0616a83207976ddd03f86f.gif">
-<a href="#"><img align="right" alt="Pokemon";" src="https://custom-doodle.com/wp-content/uploads/doodle/pokemon-vulpix/pokemon-vulpix-doodle.gif" width="130" height="120" border="0" alt="#"/></a><br /><a href="#"></a>
-  </div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="30"/>
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="40" height="30"/>
+  <img src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" width="40" height="30"/>
+  <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="30"/>
+  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" width="40" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="30"/>
+</p>
+
+<p align="left">
+  <img src="https://custom-doodle.com/wp-content/uploads/doodle/pokemon-vulpix/pokemon-vulpix-doodle.gif" width="130"/>
+</p>
                                                                                                                                                    
   ##
 
