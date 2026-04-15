@@ -8,7 +8,7 @@
   <img align="right" alt="Thaiza" height="330" src="https://iili.io/BveZp6b.md.png">
 
 
-
+<div color="DADADA">
 
 • Working on Creative Corner.
 <br>
@@ -22,6 +22,9 @@
 <br>
 • Pronouns: she/her.
 <br><br>
+
+</div>
+
  ```javascript
 const thaizaCapelao = {
   
