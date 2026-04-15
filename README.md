@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c4c1bc&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=#8dabb5&animation=twinkling&fontAlignY=35"/>
   
 
-
-### Hello world! My name is Thaiza Capelão, welcome to my Github.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&letterSpacing=1px&duration=1&pause=1000&color=DADADA&repeat=false&width=800&height=80&lines=Hello+world!+My+name+is+Thaiza+Capel%C3%A3o%2C+welcome+to+my+Github.)](https://git.io/typing-svg)
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+US+Modern&size=30&letterSpacing=1px&duration=1&pause=1000&color=DC6932&repeat=false&width=452&height=80&lines=Full+Stack+Designer)](https://git.io/typing-svg)
   
@@ -18,8 +17,6 @@
 • I’m currently learning React, JavaScript/Typescript, C#, API's.
 <br>
 • I'm Looking for oportunities and new projects.
-<br>
-• I’m looking for help with React/Angular.
 <br>
 • How to reach me: thaizacapelao@gmail.com
 <br>
