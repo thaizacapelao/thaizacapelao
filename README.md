@@ -41,23 +41,6 @@ const thaizaCapelao = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaizacapelao&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaizacapelao&layout=compact&langs_count=7&theme=panda"/>
 </div>
-  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="30"/>
-  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="40" height="30"/>
-  <img src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" width="40" height="30"/>
-  <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="30"/>
-  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" width="40" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="30"/>
-</p>
-
-<p align="left">
-  <img src="https://custom-doodle.com/wp-content/uploads/doodle/pokemon-vulpix/pokemon-vulpix-doodle.gif" width="130"/>
-</p>
                                                                                                                                                    
   ##
 
@@ -72,7 +55,7 @@ const thaizaCapelao = {
   
  <div align="center">
    
-  ![](https://komarev.com/ghpvc/?username=thaizacapelao&color=ff69b4)
+  ![](https://komarev.com/ghpvc/?username=thaizacapelao&color=dc6932)
   
   </div>
   
