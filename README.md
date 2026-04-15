@@ -53,7 +53,7 @@ const thaizaCapelao = {
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/thaizacapelao/thaizacapelao/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/thaizacapelao/thaizacapelao/output/ocean.gif?color_snake=orange&color_dots=#b7b294,#685f36,#827129,#937a16,#aa9b25&palette=github-dark"
   />
   <source
     media="(prefers-color-scheme: light)"
