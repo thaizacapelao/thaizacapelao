@@ -53,7 +53,7 @@ const thaizaCapelao = {
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/thaizacapelao/thaizacapelao/output/ocean.gif?color_snake=orange&color_dots=#a09f95,#635f4b,#7c6e30,#a08519,#cc9c00&palette=github-dark"
+    srcset="https://raw.githubusercontent.com/thaizacapelao/thaizacapelao/output/ocean.gif?color_snake=orange&color_dots=#b7b294,#685f36,#827129,#937a16,#bfa70d&palette=github-dark"
   />
   <source
     media="(prefers-color-scheme: light)"
