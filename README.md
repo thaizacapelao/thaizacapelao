@@ -1,9 +1,10 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c4c1bc&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=#8dabb5&animation=twinkling&fontAlignY=35"/>
   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&letterSpacing=1px&duration=1&pause=1000&color=DADADA&repeat=false&width=650&height=80&lines=Hello+world!+My+name+is+Thaiza+Capel%C3%A3o%2C+welcome+to+my+Github.)](https://git.io/typing-svg)
 
-  <img align="right" alt="Thaiza" height="330" src="https://iili.io/BveZp6b.md.png">
+  <img align="right" width="313" height="583" alt="thaigit2" src="https://github.com/user-attachments/assets/89a7417d-c527-4b48-84bf-2f69bd165acd" />
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+US+Modern&size=30&letterSpacing=1px&duration=1&pause=1000&color=DC6932&repeat=false&width=352&height=55&lines=Full+Stack+Designer)](https://git.io/typing-svg)
   
